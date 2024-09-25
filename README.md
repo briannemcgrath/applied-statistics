@@ -1,2 +1,3 @@
-# applied statistics
- Assignment Work
+# Applied Statistics Assignment Repository
+
+**by Brianne McGrath**
