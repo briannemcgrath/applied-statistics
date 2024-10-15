@@ -4,7 +4,7 @@ This repository contains code and resources related to the tasks and project car
 
 ## Table of Contents: 
 
-- [Tasks] (tasks.ipynb/)
+- [Tasks](tasks.ipynb/)
 
 ## Overview: 
 
