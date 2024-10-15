@@ -10,7 +10,7 @@ This repository contains code and resources related to the tasks and project car
 
 ### Tasks:
 
-- Task One: Permutations and Combinations - Lady Tasting Tea Experiment 
+- Task One: Permutations and Combinations - Lady Tasting Tea Experiment. This task calculates the probabilities associated with a modified version of the Lady Tasting Tea experiment. 
 
 ## References:
 
