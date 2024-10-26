@@ -14,6 +14,8 @@ This repository contains code and resources related to the tasks and project car
 
 ## References:
 
-- https://docs.python.org/3/library/itertools.html (Task One Itertools for Combinations)
+- https://docs.python.org/3/library/itertools.html (Task One - Itertools for Combinations)
+- https://builtin.com/data-science/shapiro-wilk-test#:~:text=Shapiro%2DWilk%20Test%3F-,The%20Shapiro%2DWilk%20test%20is%20a%20hypothesis%20test%20that%20is,generated%20from%20a%20normal%20distribution. (Task Two - Shapiro-Wilk Test for Normality)
+- https://stackoverflow.com/questions/28217306/error-in-shapiro-test-sample-size-must-be-between (Task Two - Shapiro-Wilk Test Limitations)
 
 **by Brianne McGrath**
