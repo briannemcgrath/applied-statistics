@@ -19,6 +19,6 @@ This repository contains code and resources related to the tasks and project car
 - https://builtin.com/data-science/shapiro-wilk-test#:~:text=Shapiro%2DWilk%20Test%3F-,The%20Shapiro%2DWilk%20test%20is%20a%20hypothesis%20test%20that%20is,generated%20from%20a%20normal%20distribution. (Task Two - Shapiro-Wilk Test for Normality)
 - https://stackoverflow.com/questions/28217306/error-in-shapiro-test-sample-size-must-be-between (Task Two - Shapiro-Wilk Test Limitations)
 - https://stackoverflow.com/questions/52423635/how-to-plot-normalized-histogram-with-pdf-properly-using-matplotlib (Task Two - Histogram & Normal PDF)
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC4111019/#:~:text=The%20P%20value%20is%20defined,groups%20is%20due%20to%20chance. (p-Values)
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4111019/#:~:text=The%20P%20value%20is%20defined,groups%20is%20due%20to%20chance. (Task Two p-Values)
 
 **by Brianne McGrath**
