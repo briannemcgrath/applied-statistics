@@ -1,12 +1,22 @@
 # Applied Statistics Assignment Repository
 
-This repository contains code and resources related to the tasks and project carried out for the Applied Statistics module
+This repository contains code and resources related to the tasks and project carried out for the Applied Statistics module. 
 
 ## Table of Contents: 
 
 - [Tasks](tasks.ipynb/)
+- [Project](project.ipynb/)
 
-## **Overview: **
+## **Overview:**
+
+## **Prerequisites:**
+Before running the code, ensure you have the following: 
+- Python 
+- Required libraries: 
+    - `numpy`
+    - `scipy`
+    - `matplotlib`
+    - `math` 
 
 ### **Tasks:**
 
@@ -21,4 +31,6 @@ This repository contains code and resources related to the tasks and project car
 - https://stackoverflow.com/questions/52423635/how-to-plot-normalized-histogram-with-pdf-properly-using-matplotlib (Task Two - Histogram & Normal PDF)
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC4111019/#:~:text=The%20P%20value%20is%20defined,groups%20is%20due%20to%20chance. (Task Two p-Values)
 
+## **Acknowledgments:**
+This repository was developed as part of coursework for Higher Diploma in Science in Computing in Data Analytics with Atlantic Technological University.
 **by Brianne McGrath**
