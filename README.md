@@ -53,12 +53,42 @@ Analyse the PlantGrowth dataset using $t$-tests and ANOVA to investigate the eff
 
 ## **References:**
 
-- https://docs.python.org/3/library/itertools.html (Task One - Itertools for Combinations)
-- https://builtin.com/data-science/shapiro-wilk-test#:~:text=Shapiro%2DWilk%20Test%3F-,The%20Shapiro%2DWilk%20test%20is%20a%20hypothesis%20test%20that%20is,generated%20from%20a%20normal%20distribution. (Task Two - Shapiro-Wilk Test for Normality)
-- https://stackoverflow.com/questions/28217306/error-in-shapiro-test-sample-size-must-be-between (Task Two - Shapiro-Wilk Test Limitations)
-- https://stackoverflow.com/questions/52423635/how-to-plot-normalized-histogram-with-pdf-properly-using-matplotlib (Task Two - Histogram & Normal PDF)
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC4111019/#:~:text=The%20P%20value%20is%20defined,groups%20is%20due%20to%20chance. (Task Two p-Values)
+### **Tasks**
+#### **Task 1: Lady Tasting Tea Experiment**
+
+- https://docs.python.org/3/library/itertools.html (Itertools for Combinations)
+
+#### **Task 2: numpy's Normal Distribution**
+- https://builtin.com/data-science/shapiro-wilk-test#:~:text=Shapiro%2DWilk%20Test%3F-,The%20Shapiro%2DWilk%20test%20is%20a%20hypothesis%20test%20that%20is,generated%20from%20a%20normal%20distribution. ( Shapiro-Wilk Test for Normality)
+- https://stackoverflow.com/questions/28217306/error-in-shapiro-test-sample-size-must-be-between (Shapiro-Wilk Test Limitations)
+- https://stackoverflow.com/questions/52423635/how-to-plot-normalized-histogram-with-pdf-properly-using-matplotlib (Histogram & Normal PDF)
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4111019/#:~:text=The%20P%20value%20is%20defined,groups%20is%20due%20to%20chance. (p-Values)
+
+#### **Task 3: $t$-Test Calculations**
+- https://en.wikipedia.org/wiki/Student%27s_t-test (Manual Calculation t-Test)
+- https://www.cuemath.com/t-test-formula/ (Manual Calculation t-Test)
+- https://www.investopedia.com/terms/d/degrees-of-freedom.asp (DOF)
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html#ttest-ind (scipy.stats)
+
+#### **Task 4: ANOVA**
+- https://www.investopedia.com/terms/a/anova.asp (ANOVA)
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html (Performing ANOVA f_oneway)
+- https://www.geeksforgeeks.org/how-to-perform-a-one-way-anova-in-python/ (Performing ANOVA f_oneway)
+- https://support.minitab.com/en-us/minitab/help-and-how-to/statistical-modeling/anova/how-to/one-way-anova/interpret-the-results/key-results/ (Interpretting ANOVA)
+- https://en.wikipedia.org/wiki/Type_I_and_type_II_errors (Information on Type I and Type II errors)
+
+### **Project**
+#### **$t$-Test:**
+- https://www.investopedia.com/terms/t/t-test.asp#:~:text=two%20sample%20populations.-,What%20Is%20a%20T%2DTest%3F,flipping%20a%20coin%20100%20times. (Definition for T-Test)
+- https://www.jmp.com/en_us/statistics-knowledge-portal/t-test.html (T-Test Assumptions)
+
+#### **ANOVA:**
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html (f_oneway function for ANOVA)
+- https://www.geeksforgeeks.org/how-to-perform-a-one-way-anova-in-python/ (f_oneway for ANOVA)
+- https://surveysparrow.com/blog/anova/ (Guide for interpreting ANOVA)
+- https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php (Why use ANOVA instead of multiple $t$-tests?)
+- https://stats.stackexchange.com/questions/236877/is-it-wrong-to-use-anova-instead-of-a-t-test-for-comparing-two-means (Why use ANOVA instead of multiple $t$-tests?)
+- https://www.voxco.com/blog/anova-vs-t-test-with-a-comparison-chart/ (Why use ANOVA instead of multiple $t$-tests?)
 
 ## **Acknowledgments:**
-This repository was developed as part of coursework for Higher Diploma in Science in Computing in Data Analytics with Atlantic Technological University.
-**by Brianne McGrath**
+This repository was developed as part of coursework for Higher Diploma in Science in Computing in Data Analytics with Atlantic Technological University. Special thanks to lecturer Ian McLoughlin for guidance and support.
